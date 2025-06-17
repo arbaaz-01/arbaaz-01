@@ -18,11 +18,16 @@
 ### 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arbaz-ali-shaikh-893523217/)
+- 📫 Email: shaikharbaaz2016@gmail.com
+- Portfolio: Coming Soon...
+  
+---
+
+### Coding Profiles
 - 🧠 [LeetCode](https://leetcode.com/u/arbaaz02/)
 - 👨‍💻 [HackerRank](https://www.hackerrank.com/profile/shaikharbaaz2016)
 - 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/user/shaikharbaaz2016)
-- 📫 Email: shaikharbaaz2016@gmail.com
-
+  
 ---
 
 ### 📊 GitHub Stats
